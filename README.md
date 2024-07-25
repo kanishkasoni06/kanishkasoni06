@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ReactJS<br>🌱 I’m currently learning Redux Toolkit
+🔭 I’m currently working on NextJS<br>🌱 I’m currently learning Redux Toolkit
 
 
 ## 🌐 Socials:
