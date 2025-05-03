@@ -24,10 +24,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kanishkasoni06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kanishkasoni06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkasoni06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📊 GitHub Stats
+
+<!-- Stats Card -->
+![Kanishka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanishkasoni06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+<!-- Streak Stats -->
+![Kanishka's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanishkasoni06&theme=dark&hide_border=false)
+
+<!-- Top Languages -->
+![Kanishka's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkasoni06&theme=dark&hide_border=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kanishkasoni06&icon=9&color=1)](https://visitcount.itsvg.in)
